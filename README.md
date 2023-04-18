@@ -1,5 +1,5 @@
 # Hi there, I'm Berhanu 🙋‍♂️
-🔭 I’m currently working on Microverse Full-Stack developer program<br>🌱  I’m currently learning JavaScript, React, Ruby on Rails <br>
+🔭 I’m currently working on Microverse Full-Stack developer program.<br>🌱  I’m currently learning JavaScript, React, Ruby on Rails. <br> 💻 Open to new opportunities.
 
 
 ## 🌐 Socials:
