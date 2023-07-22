@@ -1,6 +1,8 @@
 # Full-Stack Developer
 
-![Full-Stack Developer](https://github.com/BranBayou/BranBayou/blob/main/Assets/My%20project.png)
+<div align="center">
+  <img src="https://github.com/BranBayou/BranBayou/blob/main/Assets/My%20project.png" alt="Full-Stack Developer" width="350" height="350">
+</div>
 
 ## About Me
 
