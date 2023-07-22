@@ -1,14 +1,56 @@
-# Hi there, I'm Berhanu 🙋‍♂️
-🔭 I’m currently working on Microverse Full-Stack developer program.<br>🌱  I’m currently learning JavaScript, React, Ruby on Rails. <br> 💻 Open to new opportunities.
+# Full-Stack Developer
 
+![Full-Stack Developer](https://your-image-url.com/your-image.png)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bran-baye) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bran_baye) 
+## About Me
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+Hi there! 👋 I'm Berhanu, a passionate full-stack developer with a love for building web applications and solving complex problems. With experience in both front-end and back-end technologies, I'm always excited to take on new challenges and expand my skills.
 
----
-[![](https://visitcount.itsvg.in/api?id=BranBayou&icon=0&color=0)](https://visitcount.itsvg.in)
+## Skills
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Here are some of the key skills that I bring to the table as a full-stack developer:
+
+### Front-End
+
+- HTML5, CSS3, JavaScript (ES6+)  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- React.js, Angular, or Vue.js  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+- Responsive Web Design  ![Responsive](https://img.shields.io/badge/-Responsive%20Design-FF4500?style=flat)
+- CSS Frameworks (Bootstrap, Tailwind CSS)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+### Back-End
+
+- Node.js (Express.js)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat)
+- Python (Django, Flask)  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+- Ruby (Ruby on Rails)  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
+- Database Management (SQL, NoSQL)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?style=flat)
+
+### DevOps
+
+- Version Control (Git, GitHub, GitLab)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=black)
+- Continuous Integration / Continuous Deployment (CI/CD)  ![CI/CD](https://img.shields.io/badge/-CI%2FCD-007BFF?style=flat)
+- Docker  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- Cloud Platforms (AWS, Azure, or GCP)  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=azure-devops&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+### Other Skills
+
+- RESTful APIs
+- GraphQL  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+- Testing (Unit, Integration, E2E)
+- Websockets
+- Agile Development (Scrum, Kanban)
+
+## Projects
+
+Here are some of the projects I've worked on recently:
+
+1. Project One: A fully-featured e-commerce platform built with React.js and Node.js.
+   - GitHub: [Link to GitHub Repo](https://github.com/yourusername/project-one)
+
+2. Project Two: An interactive blog application using Django and React.js.
+   - GitHub: [Link to GitHub Repo](https://github.com/yourusername/project-two)
+
+## Contact Me
+
+Feel free to reach out to me via email at [berhan.baye@gmail.com](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/bran-baye/).
+
+Let's collaborate and build something amazing together! 😄
