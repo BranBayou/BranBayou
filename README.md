@@ -1,12 +1,6 @@
-# Full-Stack Developer
+<div align = "center"><h1> Hi there! 👋 I'm Berhanu<h1></div>
 
-<img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BranBayou&layout=compact">
-<img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=BranBayou&show_icons=true&theme=radical">
-
-
-## About Me
-
-Hi there! 👋 I'm Berhanu, a passionate full-stack developer with a love for building web applications and solving complex problems. With experience in both front-end and back-end technologies, I'm always excited to take on new challenges and expand my skills.
+ a passionate full-stack developer with a love for building web applications and solving complex problems. With experience in both front-end and back-end technologies, I'm always excited to take on new challenges and expand my skills.
 
 ## Skills
 
@@ -56,3 +50,8 @@ Here are some of the projects I've worked on recently:
 Feel free to reach out to me via email at [berhan.baye@gmail.com](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/bran-baye/).
 
 Let's collaborate and build something amazing together! 😄
+
+<div>
+   <img  width = "47%" height = "200px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BranBayou&layout=compact">
+   <img  width = "47%" height = "200px" src = "https://github-readme-stats.vercel.app/api?username=BranBayou&show_icons=true&theme=radical">
+</div>
