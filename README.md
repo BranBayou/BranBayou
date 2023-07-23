@@ -1,8 +1,8 @@
 # Full-Stack Developer
 
-<div align="center">
-  <img src="https://github.com/BranBayou/BranBayou/blob/main/Assets/My%20project.png" alt="Full-Stack Developer" width="350" height="350">
-</div>
+<img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BranBayou&layout=compact">
+<img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=BranBayou&show_icons=true&theme=radical">
+
 
 ## About Me
 
