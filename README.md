@@ -39,11 +39,11 @@ Here are some of the key skills that I bring to the table as a full-stack develo
 
 Here are some of the projects I've worked on recently:
 
-1. Project One: A fully-featured e-commerce platform built with React.js and Node.js.
-   - GitHub: [Link to GitHub Repo](https://github.com/yourusername/project-one)
+1. Project One: Bookstore app using public API with react.js.
+   - GitHub: [Link to GitHub Repo](https://github.com/BranBayou/react-bookstore)
 
-2. Project Two: An interactive blog application using Django and React.js.
-   - GitHub: [Link to GitHub Repo](https://github.com/yourusername/project-two)
+2. Project Two: Space travellers app using React.js.
+   - GitHub: [Link to GitHub Repo](https://github.com/BranBayou/space-travelers)
 
 ## Contact Me
 
