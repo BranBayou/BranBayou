@@ -24,7 +24,7 @@ Here are some of the key skills that I bring to the table as a full-stack develo
 
 ### DevOps
 
-- Version Control (Git, GitHub, GitLab)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=black)
+- Version Control (Git, GitHub, GitLab, Bitbucket)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=black) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
 - Continuous Integration / Continuous Deployment (CI/CD)  ![CI/CD](https://img.shields.io/badge/-CI%2FCD-007BFF?style=flat)
 - Docker  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 - Cloud Platforms (AWS, Azure, or GCP)  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=azure-devops&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
