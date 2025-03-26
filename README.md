@@ -17,7 +17,7 @@ Here are some of the key skills that I bring to the table as a full-stack develo
 ### Back-End
 
 - Ruby (Ruby on Rails), PHP, .NET, C#  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
- - Database Management (SQL, NoSQL)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?style=flat)
+ - Database Management (SQL, SQL Server Management Studio, NoSQL)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?style=flat)
 
 ### DevOps
 
