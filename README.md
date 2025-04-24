@@ -33,7 +33,7 @@ Here are some of the key skills that I bring to the table as a full-stack develo
 - GraphQL  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 - Testing (Unit, Integration, E2E)
 - Websockets
-- Agile Development (Scrum, Kanban)
+- Agile Development (Scrum, Kanban) via Taiga.io
 
 ## Projects
 
